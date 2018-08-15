@@ -1,5 +1,2 @@
 # gameOfLife
-\n
-Game of Life Program
-Developed using JS
-Console program
+Game of Life Program | Developed using JS | Console program
